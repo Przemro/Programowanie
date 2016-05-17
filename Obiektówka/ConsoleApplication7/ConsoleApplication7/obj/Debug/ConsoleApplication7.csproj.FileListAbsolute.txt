@@ -1,0 +1,6 @@
+H:\Podstawy informatyki\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+H:\Podstawy informatyki\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+H:\Podstawy informatyki\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+H:\Podstawy informatyki\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+H:\Podstawy informatyki\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+H:\Podstawy informatyki\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb

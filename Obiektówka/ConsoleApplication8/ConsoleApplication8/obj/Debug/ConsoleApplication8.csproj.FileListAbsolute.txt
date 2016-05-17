@@ -1,0 +1,6 @@
+H:\Podstawy informatyki\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+H:\Podstawy informatyki\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache
+H:\Podstawy informatyki\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+H:\Podstawy informatyki\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+H:\Podstawy informatyki\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+H:\Podstawy informatyki\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb

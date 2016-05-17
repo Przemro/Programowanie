@@ -1,0 +1,6 @@
+H:\Podstawy informatyki\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+H:\Podstawy informatyki\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache
+H:\Podstawy informatyki\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+H:\Podstawy informatyki\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+H:\Podstawy informatyki\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+H:\Podstawy informatyki\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
